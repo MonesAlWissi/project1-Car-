@@ -1,0 +1,349 @@
+#t1{
+    color: blue;
+    margin-left: 60px;
+}
+#navBar1{
+    margin-left: 100px;
+}
+.button{
+    background-color: blue;
+    color: wheat;
+    width: 130px;
+    height: 44px;
+    border: 2px solid blue;
+    border-radius:   5px;
+}
+#nav2{
+    margin-right: 70px;
+}
+#logo1{
+    width: 120px;
+    height: 55px;
+}
+#logo2{
+    width: 100px;
+    height: 37px;
+}
+#counterCarr{
+    display: grid;
+    grid-template-columns: auto auto;
+    text-align: center;
+    
+}
+#logo3{
+    width: 800px;
+    height: 600px;
+}
+#main1{
+    margin-top: 150px;
+    text-align: left;
+    margin-left: 100px;
+}
+
+#Easily{
+ color: blue;
+ text-decoration: underline;
+ font-family: 'Dancing Script', cursive;  
+ /* font-style: italic;  */
+} 
+
+#fouter{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    text-align: center;
+    background-color: rgb(248, 243, 243);
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+   height: 85px;
+   
+}
+.locition{
+    width: 35px;
+    height: 35px;
+  display: inline-block;
+  margin-bottom: 32px;
+  color: grey;
+
+}
+
+.item{
+   
+    display: inline-block;
+}
+.fouter3{
+   margin-top: 20px;
+}
+.itemp{
+    color: gray;
+}
+#h11{
+    text-align: center;
+    margin-top: 50px;
+}
+.icon22{
+    width: 191px;
+    height: 60px;
+    color: blue;
+    
+    margin-right: 20%;
+    margin-top: 20px;
+
+
+}
+.icon11{
+    width: 180px;
+    height: 100px;
+    background-color: rgb(142, 196, 218);
+    border-radius: 10px;
+    
+}
+#how{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    margin-left: 150px;
+   
+}
+
+#counterCar{
+    display: grid;
+grid-template-columns: auto auto;   
+text-align: center; 
+}
+
+#odeCar{
+    width: 30px;
+    height: 500px;
+}
+.ppItem{
+    font-size:xx-large;
+    text-align: left;
+    
+}
+.PPPItem{
+    color: gray;
+    
+    text-align: center;
+    
+}
+.whySvg{
+    color: blue;
+    width: 100px;
+    height: 40px;
+    margin-right: 40px;
+    margin-left: -12px;
+    margin-top: 5px;
+
+    
+}
+.bakCar{
+    background-color: rgba(20, 76, 243, 0.096);
+    width: 70px;
+    height: 50px;
+    border-radius: 10px;
+    
+}
+
+
+.whyH2{
+    margin-top: -70px;
+}
+#contenr{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+#IDCAR{
+    width: 90%;
+    height: 50%;
+}
+#h1_deals{
+    text-align: center;
+
+}
+#dealsGrid{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-top: 50px;
+   
+}
+.h6Deals{
+    display: inline-block;
+ 
+    padding: 3px;
+}
+.svgDeals{
+    margin-left: 65px;
+}
+.svgDeals1{
+    margin-left: 30px; 
+}
+.h66{
+    display: inline;
+    margin-left: 120px;
+}
+.h666{
+    display: inline;
+}
+#dealsBoton{
+    width: 250px;
+}
+
+#Jaguar{
+    margin-left: 20px;
+  
+}
+#testGrid{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.logo4{
+    width: 250px;
+    height: 400px;
+    border-radius: 10px;
+
+}
+#box{
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#h111{
+    text-align: center;
+}
+#small{
+    display: inline-block;
+    font-size: 10px;
+}
+
+.vvvv{
+    margin-left: 80px;
+}
+#imgHow{
+    margin-top: 255px;
+    
+}
+#imgHowlogo{
+    width: 100%;
+   
+}
+#gridDownlod{
+    display: grid;
+    grid-template-areas:
+     'gridDownlod1 gridDownlod1 gridDownlod2 gridDownlod2 ' 
+    'gridDownlod1 gridDownlod1 gridDownlod2 gridDownlod2 '
+     'gridDownlod3 gridDownlod3 gridDownlod3 gridDownlod3'
+    'gridDownlod3 gridDownlod3 gridDownlod3 gridDownlod3';
+    
+}
+
+#gridDownlod1{
+    grid-area: gridDownlod1;
+    margin-left:50px ;
+    margin-top: 50px;
+}
+#gridDownlod2{
+    grid-area: gridDownlod2;
+   text-align: right;
+    
+}
+#gridDownlod3{
+    grid-area: gridDownlod3;
+   
+    
+}
+
+
+.foter1{
+    display: inline-block;
+   
+}
+#svgFoter1{
+    width: 20px;
+    height: 30px;
+    margin-bottom: 40px;
+   
+}
+#facD{
+    display: inline-block;
+}
+#gridDownlod3{
+  display: grid;
+  grid-template-columns: auto  auto auto auto auto auto;  
+   background-color: #0d1227;
+}
+
+.colarD{
+    color:white;
+    font-size: 13px;
+}
+#dawmar{
+    display: inline-block;
+}
+.colarH{
+    color:white;
+    font-size:17px ;
+}
+#foterD{
+    margin-left: 130px;
+    margin-top: 40px;
+}
+#foterD2{
+    margin-left: 110px;
+    margin-top: 40px;
+}
+#foterD3 {
+    margin-top: 40px; 
+}
+#foterD4 {
+    margin-top: 40px; 
+}
+#foterD5 {
+    margin-top: 40px; 
+   
+}
+.marginX{
+    margin-top: 30px;
+   
+}
+#nnn{
+   
+    color: white;
+
+    margin-left: 130px;
+}
+#mmm{
+    background-color:  #0d1227;
+ 
+}
+#vvv{
+   
+  margin-left: 115px;
+ padding: 20px;
+ 
+}
+#free{
+    color: rgba(25, 25, 248, 0.904);
+}
+#Follw{
+    font-size: 50px;
+}
+.colarDD{
+    color: white;
+    margin:  5px;
+    
+  
+}
+#testGrid{
+   margin-top: 30px;
+}
+#h111{
+    margin-top: 150px;
+}
+#hov:hover{
+    color: blue;
+    font-size: 25px
+}
+#hov{
+    transition: 0.3s;
+}
