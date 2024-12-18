@@ -360,4 +360,21 @@ text-align: center;
 }
 #bcolor{
     background-color: rgb(255, 60, 0);
+    
+}
+
+#sindDiv{
+    
+    width: 300px;
+    margin-left: 480px;
+    margin-top: 150px;
+
+}
+#sindDiv0{
+    background-image: url(https://media.ed.edmunds-media.com/mercedes-benz/sl-class/2025/oem/2025_mercedes-benz_sl-class_convertible_amg-sl-43_fq_oem_1_1280.jpg);
+
+}
+#singColor{
+    color: blue;
+    font-size: 25px;
 }
